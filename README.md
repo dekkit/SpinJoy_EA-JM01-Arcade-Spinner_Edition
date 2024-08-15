@@ -1,4 +1,4 @@
-# SpinJoy - Spinner and Joystick combo (EA-JM01-Arcade-Spinner_Edition)
+# SpinJoy (EA-JM01-Arcade-Spinner_Edition)
 
 ## Introduction
 Spin Joy EA-JM01 Arcade Spinner Edition.
