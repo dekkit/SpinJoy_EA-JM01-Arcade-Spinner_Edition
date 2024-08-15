@@ -44,8 +44,8 @@ I bought the cheapest, any other should work too.
 
 ![Arduino Pro Micro Pinout](Pinout.png?raw=true "Arduino Pro Micro Pinout")
 
-**Rotary encoder 5 pin socket**
-On the back of the encoder is a pcb are  2 x sockets, the 5 pin socket is the one you should use to connect to the arduino as follows:
+**Rotary encoder 6 pin socket**
+On the back of the encoder is a pcb are  2 x sockets, the 6 pin socket is the one you should use to connect to the arduino as follows:
 | PCB  | Function |
 |------|--------|
 | GND  | Ground |
