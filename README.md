@@ -3,6 +3,8 @@
 ## Introduction
 Spin Joy EA-JM01 Arcade Spinner Edition.
 
+[Jump to Project Files](https://github.com/dekkit/SpinJoy_EA-JM01-Arcade-Spinner_Edition/tree/main/SpinJoy_EA-JM01-Arcade-Spinner_Edition)
+
 After having no luck finding a previous ardunio project that had successfully converted EA-JM01 Arcade Spinner to USB (for PC / Mister etc), i decided to debug the hardware using Serial.print and rewrote a few lines **drv_proc(void)** to properly read the inputs from the EA-JM01 (when turning slowly and also when rapidly turning in each direction).    The encoder does not behave exactly like other rotary encoders and as result most other arduino rotary encoder examples don't work well at all. 
 
 This is a modification of https://github.com/Niels3RT/SpinJoy spinner/joystick combo, which was in turn a  modification of  Sorgeligs PaddleTwoControllersUSB project](https://github.com/MiSTer-devel/Retro-Controllers-USB-MiSTer/tree/master/PaddleTwoControllersUSB) in a single Arduino Pro Micro (ATmega32U4) board :)
