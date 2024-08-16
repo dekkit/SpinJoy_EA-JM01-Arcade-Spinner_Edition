@@ -13,8 +13,10 @@ The Arduino shows up as 2 devices, a digital joystick+12 buttons with added whee
 
 Aside from adapting the code to use the EA-JM01 Arcade Spinner, it should function exactly like Spinjoy.
 
-### Spinner (EA-JM01 Arcade Spinner)
-The .ino code has been specifically adapted for use with an EA-JM01-Arcade-Spinner.    These can be purchase relatively cheaply from most online ecommerce shops.  I suspect they maybe a clone of a higher quality product, however they function really well for home DIY spinner projects.   They have nice durable  metalic / chrome 'look and feel'.   
+### Spinner (Arcade Spinner for 1UP)
+The .ino code has been specifically adapted for use with an EA-JM01-Arcade-Spinner and should work with the range of generic clone arcade spinner for 1up / replacement 1up arcade spinner etc that you see online.    These can be purchased relatively cheaply from most online ecommerce shops.  I suspect they maybe a clone of a higher quality product, however they function really well for home DIY spinner projects.   They have nice durable  metalic / chrome 'look and feel'.  
+
+If you look closely at the pictures you should see the PCB has a 6 pin socket (and you can see labels on the other side of the socket: gnd, K1, K2, nc, nc, vcc).  These are the pins you need for this project.
 
 ![image](https://github.com/user-attachments/assets/eeb995bd-31ae-4390-8922-6c1055703a02)
 
