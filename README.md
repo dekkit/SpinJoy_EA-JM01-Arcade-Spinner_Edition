@@ -60,7 +60,7 @@ On the back of the encoder  pcb are  2 x sockets, the 6 pin socket is the one yo
 | K2 | Enc B  |
 | NC | Not Connected|
 | NC | Not Connected|
-| VIN / VCC | 5v |
+| VIN / VCC | VCC (5v) |
 
 NOTE: The PCB is labelled for each pin so check to ensure you have the pin order is the same as described here.   THe EA-JM01 Arcade Spinner works fine on 5v.
 
